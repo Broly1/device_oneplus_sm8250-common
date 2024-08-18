@@ -383,3 +383,6 @@ PRODUCT_PACKAGES += \
 
 # Inherit from the proprietary files makefile.
 $(call inherit-product, vendor/oneplus/sm8250-common/sm8250-common-vendor.mk)
+
+# Private keys
+-include vendor/evolution-priv/keys/keys.mk
