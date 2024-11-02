@@ -136,4 +136,6 @@
          <item>/sys/class/oplus_chg/battery/voocchg_ing;1</item>
     </string-array>
 
+    <!-- Whether device has physical tri state switch -->
+    <bool name="config_hasAlertSlider">true</bool>
 </resources>
