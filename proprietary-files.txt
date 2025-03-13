@@ -130,6 +130,17 @@ odm/lib64/camera/fdconfigvideo.bin
 odm/lib64/camera/fdconfigvideolite.bin
 odm/lib64/libSonyIMX471RmscLibrary.so
 odm/lib64/libfastov_dsp.so
+odm/lib64/libhta.so
+odm/lib64/libhwconfigurationutil.so;MODULE_SUFFIX=_odm
+odm/lib64/libhyperlapse.so
+odm/lib64/libml_util.so
+odm/lib64/libnightvision.so;FIX_SONAME
+odm/lib64/libmpbase.so
+odm/lib64/libop-ai-beauty-body-detection.so
+odm/lib64/libop-ai-beauty-faceretouch-cn.so
+odm/lib64/liboplus_dehaze_module.so;FIX_SONAME
+odm/lib64/liboptical_zoom_dc.so
+odm/lib64/liboptical_zoom_vs.so
 odm/lib64/libormshalclient.so
 odm/lib64/libvl53l1_daemon.so
 odm/lib64/sensors.hal.tof.so
